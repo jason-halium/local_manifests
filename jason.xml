@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/xiaomi/jason" name="jason-halium/device" remote="github" revision="halium-9.0" />
+    <project path="kernel/xiaomi/jason" name="jason-halium/kernel" remote="github" revision="halium-9.0" />
+    <project path="vendor/xiaomi/jason" name="jason-halium/vendor" remote="github" revision="halium-9.0" />
+</manifest>
